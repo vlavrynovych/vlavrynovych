@@ -14,7 +14,7 @@ I'm a generalist who enjoys working on diverse challenges:
 
 ### Projects
 
-- **[msr](https://github.com/vlavrynovych/msr)** - Database migration runner with transaction support (pet project)
+- **Migration Script Runner** - [GitHub](https://github.com/migration-script-runner) / [website](https://migration-script-runner.dev/) - Database migration runner with transaction support (pet project)
 - **Strive Club** - Built a tool for cyclists to analyze Strava performance (past pet project)
 
 ### Tech Stack
