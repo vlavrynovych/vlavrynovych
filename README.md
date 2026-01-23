@@ -18,6 +18,7 @@ I'm a generalist who enjoys working on diverse challenges:
 - **Where Stars Drift** - [github](https://github.com/where-stars-drift) / [npm](https://www.npmjs.com/package/@where-stars-drift/core) / [preview](https://migration-script-runner.dev/where-stars-drift) - ✨ Where Stars Drift is a high-performance canvas-based simulation engine that brings space to life. Watch black holes consume stars, starship fleets navigate in formation, and nebulas drift across the cosmic void - all rendered in real-time with realistic physics.
 - **auto-envparse** - [github](https://github.com/vlavrynovych/auto-envparse) / [npm](https://www.npmjs.com/package/auto-envparse) - ⚡ Automatic environment variable parsing with zero configuration and type inference
 - **simple-event-handler** - [github](https://github.com/vlavrynovych/simple-event-handler) / [npm](https://www.npmjs.com/package/simple-event-handler) - A lightweight, framework-agnostic event handler library for both front-end and back-end JavaScript applications. Implement the pub/sub (publisher-subscriber) pattern to decouple your code and enable event-driven architecture. Works seamlessly in browsers, Node.js, and modern JavaScript frameworks like React, Vue, and Angular.
+- **Ghost TOC** - [github](https://github.com/vlavrynovych/ghost-toc) - Table of Contents generator for Ghost blog platform. Zero dependencies, collapsible functionality, works via code injection. Just add <toc> tag to your posts!
 - **Strive Club** - Built a tool for cyclists to analyze Strava performance (past pet project)
 
 ### Tech Stack
