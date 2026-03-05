@@ -36,4 +36,4 @@ Currently serving as Team Lead at Netflix (10+ years), with additional experienc
 
 ### More About Me
 
-Beyond code, I enjoy running, cycling, collecting Lego and scale train models, and exploring new technologies. I occasionally write at [lavr.site](https://lavr.site/).
+Beyond code, I enjoy running, cycling, collecting Lego and scale train models, and exploring new technologies. I occasionally write at [my blog](https://blog.lavrynovych.net/).
