@@ -2,6 +2,17 @@
 
 Full-stack software engineer with 10+ years building production systems across the entire stack. I don't fit in one box - I work with databases, backend, frontend, and everything in between. Professionally I work with Java, but my heart belongs to JavaScript and TypeScript.
 
+![JavaScript](https://img.shields.io/badge/javascript-30312e?style=for-the-badge&logo=javascript&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/typescript-d6dee5?style=for-the-badge&logo=typescript&logoColor=3074c0) 
+![NodeJS](https://img.shields.io/badge/nodejs-7fc727?style=for-the-badge&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/angualr-be032f?style=for-the-badge&logo=Angular&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-015c87?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![ProxmoxVE](https://img.shields.io/badge/proxmox-de6d00?style=for-the-badge&logo=proxmox&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/homeassistant-3fb7ed?style=for-the-badge&logo=homeassistant&logoColor=white)
+
 ### What I Build
 
 I'm a generalist who enjoys working on diverse challenges:
